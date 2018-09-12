@@ -4,7 +4,7 @@ title: 友链
 date: 2018-09-12
 ---
 
-> God made relatives. Thank God we can choose our friends.
+> サヨナライツカ。 
 
 <!-- * [无闻](https://wuwen.org){:target="_blank"}
 * [如梦技术](http://www.dreamlu.net){:target="_blank"}

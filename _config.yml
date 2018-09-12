@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '量角器的文具盒'
-description: '很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '王爵nice, 王爵nice的独立博客, 王爵nice的博客, 后端, 后端开发, 后端博客, java, github, 开源项目'
+description: '你好，很高兴认识你'
+keyword: '量角器,量角器的blog'
 url: 'http://blog.wupupu.xyz'
 baseurl: ''
 cdnurl: /assets
@@ -24,9 +24,9 @@ navigation:
     url: /about.html
 
 # Author 配置博主信息
-author: 'biezhi'
-nickname: '王爵nice'
-bio: '程序员，极客，开源爱好者，追求一切美的事物，好交良友。'
+author: 'wupupu'
+nickname: '量角器'
+bio: '大学生，程序员，极客，ACG'
 avatar: '/assets/img/profile.jpeg'
 
 # Search
@@ -55,11 +55,8 @@ postPatterns: 'food'
 
 # SNS settings 配置社交网站url: weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  twitter: 'https://twitter.com/biezhii'
-  juejin: 'https://juejin.im/user/5630dae560b2febe0fdfef0d'
-  instagram: 'https://www.instagram.com/biezhii'
-  zhihu: 'https://www.zhihu.com/people/biezhi'
-  github: 'https://github.com/biezhi'
+  twitter: 'https://twitter.com/dbqwhxn'
+  github: 'https://github.com/Planarians'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar

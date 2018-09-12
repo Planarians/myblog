@@ -1,22 +1,17 @@
 ---
 layout: page
 title: 关于
-date: 2018-01-01
+date: 2018-09-12
 ---
 
-这里是我的个人博客，还没想起来写什么好。
+这里是我的个人博客，还没好该写什么好_(:з」∠)_
 
-仰慕「优雅编码的艺术」。
+我是个有些内向的孩子
 
-我的博客托管在 [这家云服务器](https://my.cloudleft.com/aff.php?aff=498){:target="_blank"}
+如果你愿意和我来交朋友的话我会很开心的(￣▽￣)
 
-## 坚信
+## 联系我
 
-* 熟能生巧
-* 努力改变人生
-
-## 联系
-
-* GitHub：[@biezhi](https://github.com/biezhi){:target="_blank"}
-* Twitter: [@biezhii](https://twitter.com/biezhii){:target="_blank"}
-* 知乎: [@biezhi](http://www.zhihu.com/people/biezhi){:target="_blank"}
+* GitHub：[@Planarians](https://github.com/Planarians){:target="_blank"}
+* Twitter: [@dbqwhxn](https://twitter.com/dbqwhxn){:target="_blank"}
+* 知乎: [@量角器](https://www.zhihu.com/people/xu-mo-53-22/){:target="_blank"}

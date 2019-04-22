@@ -2,7 +2,7 @@
 layout: post
 title: Hello World～
 cover: /img/cover/hello-world.png
-tags: ['blog', '技术']
+tags: ['blog','Jekyll', '技术']
 ---
 
 第一篇blog理所当然的是要讲怎么建站hhh
@@ -98,4 +98,4 @@ lnmp装不好可以或者找`github`上的[`lnmp一键安装包`](https://github
 ### 问题
 那个，请问大家有办法把换行符自动转为`<br>`标签吗    
 虽然在`vscode`的`markdown`预览的时候是显示有换行的，但是一旦在`jekyll`生成的blog上都是没有的。即使打开设置里面关于Markdown break里的两项还是不起作用，只能写完文章后自己在每次换行手动补上一个`<br>`真的很麻烦    
-如果有人知道怎么解决的话请联系我 非常感谢〈（_　_）〉
+如果有人知道怎么解决的话请联系我 非常感谢〈（_  _）〉

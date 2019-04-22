@@ -11,7 +11,7 @@ date: 2018-09-12
 <br>如果你愿意和我来交朋友的话我会很开心的
 <br>(￣▽￣)
 
-## 联系我
+## Catch me
 
 * GitHub：[@Planarians](https://github.com/Planarians){:target="_blank"}
 * Twitter: [@dbqwhxn](https://twitter.com/dbqwhxn){:target="_blank"}

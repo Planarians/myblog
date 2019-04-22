@@ -53,7 +53,7 @@ blog就好像自己的家一样，什么都可以放在上面感觉很舒服很�
 另外本站的评论系统是`Disqus`所以想要评论和看到评论需要`魔法上网`如果对你造成了麻烦还请谅解
 <!-- [魔法上网](https://www.flyzy2005.com/fan-qiang/shadowsocks/install-shadowsocks-in-one-command/){:target="_blank"} -->
 
-其实我用`Jekyll`搭建博客还有一个很重要的原因就是他在`YouTube`上发了很详细的[视频教程](https://www.youtube.com/channel/UCmlhPmTdqYhRWwWZWSIBwGw){:target="_blank"}  
+其实我用`Jekyll`搭建博客还有一个很重要的原因就是他在`YouTube`上发了很详细的[视频教程](https://www.youtube.com/watch?v=Zt_QzSbyDcw&list=PLK2w-tGRdrj7vzX7Y-GqKPb2QPrHCYZY1&index=1){:target="_blank"}  
 用的系统刚好和我一样也是也是`Mac OS`对我有很大的参考价值感觉可以学到许多
 
 整一个建站的过程也确实学到了很多东西  
@@ -74,7 +74,7 @@ blog就好像自己的家一样，什么都可以放在上面感觉很舒服很�
 这个blog里的搭建方法也写的挺简洁 [手把手建网教程](https://www.flyzy2005.com/build-page/){:target="_blank"}
 lnmp装不好可以或者找`github`上的[`lnmp一键安装包`](https://github.com/lj2007331/lnmp){:target="_blank"}
 2. 如果你想在建站的过程中学多比较多的东西可以使用`jekyll`或`hexo`
-`jekyll`可以看这里 [视频教程](https://www.youtube.com/channel/UCmlhPmTdqYhRWwWZWSIBwGw){:target="_blank"}我看的也是这个教程
+`jekyll`可以看这里 [视频教程](https://www.youtube.com/watch?v=Zt_QzSbyDcw&list=PLK2w-tGRdrj7vzX7Y-GqKPb2QPrHCYZY1&index=1){:target="_blank"}我看的也是这个教程
 
 一般途中肯定会出现一些问题的 这时候就要用好`google`和`stackflow`
 

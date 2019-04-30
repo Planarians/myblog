@@ -16,3 +16,4 @@ date: 2018-09-12
 * GitHub：[@Planarians](https://github.com/Planarians){:target="_blank"}
 * Twitter: [@dbqwhxn](https://twitter.com/dbqwhxn){:target="_blank"}
 * 知乎: [@量角器](https://www.zhihu.com/people/xu-mo-53-22/){:target="_blank"}
+* 这个blog的[RSS](https://wupupu.xyz/feed){:target="_blank"}

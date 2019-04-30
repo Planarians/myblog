@@ -76,6 +76,7 @@ kramdown:
   auto_id_prefix: 'id-'
   toc_levels:     '2,3'
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  white-space: pre-wrap
 
 jekyll-archives:
   enabled:
